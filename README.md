@@ -1,9 +1,8 @@
-# Darker Discord (https://www.codefactor.io/repository/github/hellbound1337/dark-discord-archive)
+# Darker Discord
 A darker mode for discord.
 
 # Downloads
-- [BetterDiscord]
-- Powercord: `git clone https://github.com/mysticdevv/darker-discord/`
+- None for now
 
 # Preview
-<img src="https://i.imgur.com/ehSSS0U.png"/>
+<img src=""/>
