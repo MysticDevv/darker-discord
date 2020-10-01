@@ -1654,20 +1654,3 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
    border: 2px solid var(--background-secondary);
    background-color: var(--background-secondary);
 }
-.headerPlaying-j0WQBV.header-2BwW8b.size16-14cGz5{/*top part ingame*/
-    background: linear-gradient( rgba(209, 171, 0, 0.5), rgb(209, 171, 0, 1) )!important;
-}
-
-.headerStreaming-2FjmGz.header-2BwW8b.size16-14cGz5{/*top part straming*/
-    background: linear-gradient( rgba(209, 0, 192, 0.5), rgb(209, 0, 122) )!important;
-}
-
-.headerSpotify-zpWxgT.header-2BwW8b.size16-14cGz5{/*top part spotify*/
-    background: linear-gradient( rgba(7, 209, 0, 0.5), rgb(0, 170, 71) )!important;
-}
-.activityUserPopout-2yItg2.activity-11LB_k{
-    background-color: #00000000!important;
-}
-.theme-dark .selected-1Tbx07 {
-    background-color: #141414;
-}
