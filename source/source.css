@@ -1654,3 +1654,6 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
    border: 2px solid var(--background-secondary);
    background-color: var(--background-secondary);
 }
+.bf-toolbar::before{
+    background-color: #111111; !important
+}
