@@ -1660,3 +1660,12 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 .theme-dark .guildIconImage-3qTk45 {
     background-color: #141414 !important;
 }
+#permissions-modal-wrapper .role-side {
+    background-color: #111111 !important;
+}
+#permissions-modal-wrapper .perm-side {
+    background-color: #141414 !important;
+}
+#permissions-modal-wrapper .header {
+    background-color: #121212 !important;
+}
