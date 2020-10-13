@@ -1655,8 +1655,8 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
    background-color: var(--background-secondary);
 }
 .bf-toolbar.bf-visible:before, .bf-toolbar.bf-hover:hover:before{
-    background-color: #111111; !important
+    background-color: #111111 !important;
 }
 .theme-dark .guildIconImage-3qTk45 {
-    background-color:#141414;
+    background-color: #141414 !important;
 }
