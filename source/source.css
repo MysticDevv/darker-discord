@@ -1654,18 +1654,21 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
    border: 2px solid var(--background-secondary);
    background-color: var(--background-secondary);
 }
+.theme-dark .selected-1Tbx07 {
+    background-color: var(--background-primary) !important;
+}
 .bf-toolbar.bf-visible:before, .bf-toolbar.bf-hover:hover:before{
-    background-color: #111111 !important;
+    background-color: var(--background-seondary) !important;
 }
 .theme-dark .guildIconImage-3qTk45 {
-    background-color: #141414 !important;
+    background-color: var(--background-primary) !important;
 }
 #permissions-modal-wrapper .role-side {
-    background-color: #111111 !important;
+    background-color: var(--background-secondary) !important;
 }
 #permissions-modal-wrapper .perm-side {
-    background-color: #141414 !important;
+    background-color: var(--background-primary) !important;
 }
 #permissions-modal-wrapper .header {
-    background-color: #121212 !important;
+    background-color: var(--background-tertiary) !important;
 }
