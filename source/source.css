@@ -1672,3 +1672,31 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU {
 #permissions-modal-wrapper .header {
     background-color: var(--background-tertiary) !important;
 }
+.scrollableContainer-2NUZem {
+    background-color: var(--background-secondary)!important;
+}
+.container-3auIfb {
+    background-color: var(--background-primary);
+}
+.item-rJ_Cmt, .keybindMessage-20JT9A {
+    background-color: var(--background-primary)!important;
+}
+.css-3vaxre-menu {
+    background-color: var(--background-secondary)!important;
+    border-color: var(--background-secondary);
+}
+.accountList-33MS45, .connectionHeader-2MDqhu {
+    background-color: var(--background-secondary);
+}
+.connectionOptionsWrapper-3KIj1Z {
+    background-color: var(--deprecated-card-bg);
+}
+.option-n0icdO {
+    background-color: var(--background-accent);
+}
+.theme-dark .notDetected-33MY4s {
+    background-color: var(--background-secondary);
+}
+.input-2VB9rf {
+    background-color: var(--background-primary);
+}
