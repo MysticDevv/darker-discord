@@ -1,13 +1,12 @@
 /**
-
  * @name Darker Discord
- * @version 1.0
+ * @version 1.1
  * @description A darker mode for discord.
  * @source https://github.com/mysticdevv/darker-discord/
  * @authorId 680957940647329829
  * @author Mystic
-
-**/
+ * @updateUrl https://raw.githack.com/MysticDevv/darker-discord/master/DarkerDiscord.theme.css
+*/
 
 @import url(https://raw.githack.com/MysticDevv/darker-discord/master/source/source.css);
 
