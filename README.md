@@ -1,5 +1,5 @@
 # Darker Discord
-A darker mode for discord.
+A BetterDiscord theme to make discord darker.
 
 # How to Download
 - Download [here](https://github.com/MysticDevv/darker-discord/releases/download/v1.0/DarkerDiscord.theme.css)
