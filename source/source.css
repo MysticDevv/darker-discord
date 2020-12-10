@@ -810,11 +810,11 @@
    background-color: var(--background-accent) !important;
 }
 
-.bd-switch {
+.bd.switch {
    background-color: var(--background-secondary-alt) !important;
 }
 
-.bd-switch-checked {
+.bd.switch.checked {
    background-color: var(--bd-blue) !important;
 }
 
