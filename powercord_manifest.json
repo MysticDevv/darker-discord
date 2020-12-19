@@ -1,0 +1,9 @@
+{
+   "name": "Darker Discord",
+   "description": "A darker mode for discord",
+   "version": "1.0.0",
+   "author": "Mystic#9999",
+   "theme": "DarkerDiscord.theme.css",
+   "splashTheme": "splash.css",
+   "license": "MIT"
+}
