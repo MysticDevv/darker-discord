@@ -5,6 +5,7 @@
  * @source https://github.com/izMystic/darker-discord/
  * @authorId 680957940647329829
  * @author Mystic
+ * @updateUrl (https://raw.githack.com/izMystic/darker-discord/master/DarkerDiscord.theme.css
 */
 
 @import url(https://raw.githack.com/izMystic/darker-discord/master/source/source.css);
@@ -43,5 +44,5 @@
    --toast-contents: var(--background-secondary) !important;
    --toast-box-shadow: rgba(0, 0, 0, 0.2) !important;
    --toast-border: var(--background-tertiary) !important;
+   --bd-blue: #7289DA !important;
 }
-/** testing autoupdate
