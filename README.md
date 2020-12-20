@@ -10,6 +10,7 @@ A theme for Discord to make it darker.
 `git clone https://github.com/izMystic/darker-discord/`
 
 # Previews
-<img src="https://cdn.discordapp.com/attachments/724062593513160774/771980322506014730/1.png"/>
-<img src="https://cdn.discordapp.com/attachments/724062593513160774/771981078445424640/2.jpg"/>
-<img src="https://cdn.discordapp.com/attachments/724062593513160774/771980327539310592/3.png"/>
+<img src="https://cdn.discordapp.com/attachments/597547377435344896/790032825751306240/unknown.png"/>
+<img src="https://cdn.discordapp.com/attachments/597547377435344896/790032310891184148/unknown.png"/>
+<img src="https://cdn.discordapp.com/attachments/597547377435344896/790032489992421406/unknown.png"/>
+<img src="https://cdn.discordapp.com/attachments/597547377435344896/790032796575072256/unknown.png"/>
