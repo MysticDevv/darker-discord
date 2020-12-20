@@ -1,6 +1,8 @@
 # Darker Discord
 A theme for Discord to make it darker.
 
+(if you find issues please dm me or make a issue request thing.)
+
 # How to Download
 
 ## BetterDiscord
