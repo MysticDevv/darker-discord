@@ -178,6 +178,10 @@ html .monaco-editor .inputarea.ime-input {
    background-color: var(--background-secondary-alt);
 }
 
+.theme-dark .root-1gCeng  {
+   background-color: var(--background-primary)
+}
+
 /* MEMBERCOUNT FIX */
 #app-mount #MemberCount {
    background-color: var(--background-secondary);
