@@ -4,7 +4,7 @@ A theme for Discord to make it darker.
 # How to Download
 
 ## BetterDiscord
-- Download [here](https://github.com/izMystic/darker-discord/releases/download/v1.1/DarkerDiscord.theme.css)
+- Download [here](https://github.com/izMystic/darker-discord/releases/download/v2.0/DarkerDiscord.theme.css)
 
 ## PowerCord
 `git clone https://github.com/izMystic/darker-discord/`
