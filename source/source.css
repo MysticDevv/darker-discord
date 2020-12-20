@@ -170,6 +170,14 @@ html .monaco-editor .inputarea.ime-input {
    background-color: var(--background-primary)
 }
 
+.modalContent-1T1Tix {
+   background-color:var(--background-primary)
+}
+
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+   background-color: var(--background-secondary-alt);
+}
+
 /* MEMBERCOUNT FIX */
 #app-mount #MemberCount {
    background-color: var(--background-secondary);
