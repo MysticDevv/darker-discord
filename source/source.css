@@ -259,6 +259,14 @@ var(--elevation-medium);
    background-color: var(--background-secondary);
 }
 
+.theme-dark .separator-XqIyoz {
+   background-color: var(--background-tertiary);
+}
+
+.peopleListItem-2nzedh {
+   border-color: var(--background-secondary);
+}
+
 /* MEMBERCOUNT FIX */
 #app-mount #MemberCount {
    background-color: var(--background-secondary);
