@@ -317,6 +317,22 @@ var(--elevation-medium);
     background-color: var(--background-secondary);
 }
 
+.root-2VTZPJ {
+    background-color: var(--background-primary);
+}
+
+.button-3HqqDX {
+    background-color: var(--background-secondary);
+}
+
+.button-3HqqDX:hover {
+    background-color: var(--background-secondary-alt);
+}
+
+.participantsButton-2BYCUL {
+    background-color: var(--background-secondary);
+}
+
 /* MEMBERCOUNT FIX */
 #app-mount #MemberCount {
    background-color: var(--background-secondary);
