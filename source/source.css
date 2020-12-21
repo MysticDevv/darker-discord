@@ -293,10 +293,6 @@ var(--elevation-medium);
    background-color: var(--background-secondary-alt);
 }
 
-.colorable-1bkp8v.primaryDark-3mSFDl, .colorable-1bkp8v.primaryDark-3mSFDl .centerIcon-2G6o-T {
-   background-color: var(--background-secondary-alt);
-}
-
 /* MEMBERCOUNT FIX */
 #app-mount #MemberCount {
    background-color: var(--background-secondary);
