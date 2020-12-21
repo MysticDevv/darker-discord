@@ -1,13 +1,41 @@
-.container-3baos1 {
+.theme-dark .notches-1sAcEM.gray-3_LNYR {
+   background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23141414'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E");
+}
+.theme-dark .notches-1sAcEM.gray-3_LNYR {
+   background-color: var(--background-secondary-alt);
+}
+
+.theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
+   background-color: var(--background-secondary);
+   border-color: var(--background-tertiary);
+}
+
+.theme-dark .bar-2Qqk5Z {
+   background: var(--background-secondary-alt);
+}
+
+.container-3auIfb, .input-rwLH4i {
    background-color: var(--background-primary);
+}
+
+.container-3baos1, .container-3baos1 .avatar-SmRMf2 {
+   background-color: var(--background-tertiary);
+   border-color: var(--background-tertiary);
 }
 
 .peopleList-3c4jOR {
    background-color: var(--background-primary);
 }
 
-.section-2gLsgF {
+#app-mount .section-2gLsgF {
    background-color: var(--background-secondary);
+   border-color: var(--background-secondary);
+   border-radius: 0px;
+}
+
+.itemCard-v9viV7:first-of-type:hover {
+   background-color: var(--background-secondary);
+   border-color: var(--background-secondary);
 }
 
 .lookFilled-1Gx00P.colorGrey-2DXtkV {
@@ -57,18 +85,18 @@
 
 html .monaco-editor .minimap,
 html .monaco-editor .decorationsOverviewRuler {
-	display: none;
+    display: none;
 }
 
 html .monaco-editor,
 html .monaco-editor-background,
 html .monaco-editor .inputarea.ime-input,
 html .monaco-editor .margin {
-	background-color: var(--background-secondary);
+    background-color: var(--background-secondary);
 }
 html .monaco-editor,
 html .monaco-editor .inputarea.ime-input {
-	color: var(--text-normal);
+    color: var(--text-normal);
 }
 
 .theme-dark .headerNormal-T_seeN {
@@ -82,7 +110,8 @@ html .monaco-editor .inputarea.ime-input {
 }
 
 .container-1giJp5, .activityPanel-28dQGo {
-   background-color: var(--background-primary);
+   background-color: var(--background-tertiary);
+   border-color: var(--background-tertiary);
 }
 
 .jumpToPresentBar-G1R9s6 {
@@ -90,27 +119,28 @@ html .monaco-editor .inputarea.ime-input {
 }
 
 .bd-toast {
-	background-color: var(--background-floating);
-	box-shadow: var(--elevation-medium);
-	color: var(--header-primary);
+    background-color: var(--background-floating);
+    box-shadow:
+var(--elevation-medium);
+    color: var(--header-primary);
 }
 
 #app-mount .container-3ayLPN {
-	background-color: var(--background-primary);
+    background-color: var(--background-primary);
 }
 
 #app-mount .focused-2bY0OD {
-	background-color: var(--background-tertiary);
+    background-color: var(--background-tertiary);
 }
 
 #app-mount .option-96V44q::after {
-	background: linear-gradient(90deg,transparent,var(--background-primary) 80%);
+    background: linear-gradient(90deg,transparent,var(--background-primary) 80%);
 }
 
 #app-mount .searchAnswer-3Dz2-q,
 #app-mount .searchFilter-2ESiM3 {
-	background-color: var(--background-primary);
-	color: var(--header-primary);
+    background-color: var(--background-primary);
+    color: var(--header-primary);
 }
 
 .theme-dark .scroller-1-nKid {
@@ -118,7 +148,7 @@ html .monaco-editor .inputarea.ime-input {
 }
 
 .scrollerBase-289Jih::-webkit-scrollbar-track {
-	background-color: var(--background-secondary);
+    background-color: var(--background-secondary);
 }
 
 .scrollerBase-289Jih::-webkit-scrollbar-thumb {
@@ -167,7 +197,8 @@ html .monaco-editor .inputarea.ime-input {
 }
 
 .theme-dark .css-3vaxre-menu {
-   background-color: var(--background-primary)
+   background-color: var(--background-primary);
+   border-color: var(--background-secondary)
 }
 
 .modalContent-1T1Tix {
@@ -180,6 +211,52 @@ html .monaco-editor .inputarea.ime-input {
 
 .theme-dark .root-1gCeng  {
    background-color: var(--background-primary)
+}
+
+.theme-dark .notches-1sAcEM {
+   background-color: var(--backgro)
+}
+
+.theme-dark .content-1LAB8Z, .content-mK72R6 {
+   background-color: var(--background-primary);
+}
+
+.bottomLeft-39-xss, .bottomRight-1T56wW, .topLeft-3buHIc, .topRight-3GKDeL {
+   background-color: var(--background-secondary-alt);
+}
+
+.theme-dark .notDetected-33MY4s, .theme-light .notDetected-33MY4s {
+   background-color: var(--background-secondary);
+}
+
+.theme-dark .card-FDVird {
+   background-color: var(--background-primary);
+}
+
+.theme-dark .card-FDVird:before {
+   background-color: var(--background-secondary-alt);
+}
+
+.theme-dark .addGamePopout-2RY8Ju {
+   background-color: var(--background-primary);
+}
+
+.theme-dark .codeRedemptionRedirect-1wVR4b {
+   background-color: var(--background-primary);
+   border-color: var(--background-secondary);
+}
+
+.pageActions-1SVAnA {
+   background-color: var(--background-secondary);
+}
+
+.theme-dark .bottomDivider-1K9Gao {
+   background-color: var(--background-primary);
+   border-color: var(--background-secondary);
+}
+
+.friendsEmpty-1K9B4k {
+   background-color: var(--background-secondary);
 }
 
 /* MEMBERCOUNT FIX */
@@ -246,7 +323,8 @@ html .monaco-editor .inputarea.ime-input {
    content: 'Settings';
    display: flex;
    justify-content: center;
-   align-items: center;
+   align-items:
+center;
    width: 230px;
    height: 14px;
    border-radius: 5px;
@@ -262,7 +340,7 @@ html .monaco-editor .inputarea.ime-input {
 
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *,
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::after,
-.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::before {
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type ::before {
    visibility: hidden !important;
 }
 
