@@ -1,3 +1,19 @@
+.theme-dark .separator-XqIyoz {
+   background-color: var(--background-tertiary);
+}
+
+.peopleListItem-2nzedh {
+   border-color: var(--background-secondary);
+}
+
+.theme-dark .guildIconImage-3qTk45 {
+   background-color: var(--background-primary);
+}
+
+.container-1ov-mD>* {
+   border-color: var(--background-secondary);
+}
+
 .theme-dark .notches-1sAcEM.gray-3_LNYR {
    background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23141414'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E");
 }
@@ -186,10 +202,16 @@ var(--elevation-medium);
 
 .uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC {
    background-color: var(--background-secondary);
+   border-color: var(--background-primary);
 }
 
 .theme-dark .uploadModal-2ifh8j {
    background-color: var(--background-primary);
+   border-color: var(--background-primary);
+}
+
+.inner-3nWsbo {
+   border-color: var(--background-secondary);
 }
 
 .selected-aXhQR6 .layout-2DM8Md {
@@ -265,6 +287,14 @@ var(--elevation-medium);
 
 .peopleListItem-2nzedh {
    border-color: var(--background-secondary);
+}
+
+.cta-3gK0Pu {
+   background-color: var(--background-secondary-alt);
+}
+
+.colorable-1bkp8v.primaryDark-3mSFDl, .colorable-1bkp8v.primaryDark-3mSFDl .centerIcon-2G6o-T {
+   background-color: var(--background-secondary-alt);
 }
 
 /* MEMBERCOUNT FIX */
