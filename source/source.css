@@ -293,6 +293,30 @@ var(--elevation-medium);
    background-color: var(--background-secondary-alt);
 }
 
+.container-2VW0UT[style*="background-color: rgba(32, 34, 37"] {
+    background-color:var(--background-tertiary) !important;
+}
+
+.guildIcon-3Co6k- {
+    background-color: var(--background-primary);
+}
+
+.colorable-1bkp8v.primaryDark-3mSFDl, .colorable-1bkp8v.primaryDark-3mSFDl, .colorable-1bkp8v.primaryDark-3mSFDl .centerIcon-2G6o-T[style*="background-color: #f04747"] {
+    background-color: var(--background-secondary);
+}
+
+.categoryHeader-O1zU94, .bar-AokMp3 {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .scroller-3BxosC {
+    background-color: var(--background-floating);
+}
+
+.panels-j1Uci_ {
+    background-color: var(--background-secondary);
+}
+
 /* MEMBERCOUNT FIX */
 #app-mount #MemberCount {
    background-color: var(--background-secondary);
