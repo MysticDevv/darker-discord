@@ -1,6 +1,8 @@
 # Darker Discord
 A theme for Discord to make it darker.
 
+Need support? Join my discord! https://izmystic.dev/discord
+
 (if you find issues please dm me or make a issue request thing.)
 
 # How to Download
