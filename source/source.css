@@ -333,6 +333,11 @@ var(--elevation-medium);
     background-color: var(--background-secondary);
 }
 
+.addInputWrapper-1BOZ3d, .theme-dark .sectionHeader-20RGqu {
+   background-color: var(--background-secondary);
+   border-color: var(--background-secondary);
+}
+
 /* MEMBERCOUNT FIX */
 #app-mount #MemberCount {
    background-color: var(--background-secondary);
