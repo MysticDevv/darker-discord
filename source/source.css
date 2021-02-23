@@ -1,101 +1,105 @@
 .theme-dark .separator-XqIyoz {
-   background-color: var(--background-tertiary);
+    background-color: var(--background-tertiary);
 }
 
 .peopleListItem-2nzedh {
-   border-color: var(--background-secondary);
+    border-color: var(--background-secondary);
 }
 
 .theme-dark .guildIconImage-3qTk45 {
-   background-color: var(--background-primary);
+    background-color: var(--background-primary);
 }
 
 .container-1ov-mD>* {
-   border-color: var(--background-secondary);
+    border-color: var(--background-secondary);
 }
 
 .theme-dark .notches-1sAcEM.gray-3_LNYR {
-   background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23141414'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E");
+    background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23141414'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E");
 }
+
 .theme-dark .notches-1sAcEM.gray-3_LNYR {
-   background-color: var(--background-secondary-alt);
+    background-color: var(--background-secondary-alt);
 }
 
 .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
-   background-color: var(--background-secondary);
-   border-color: var(--background-tertiary);
+    background-color: var(--background-secondary);
+    border-color: var(--background-tertiary);
 }
 
 .theme-dark .bar-2Qqk5Z {
-   background: var(--background-secondary-alt);
+    background: var(--background-secondary-alt);
 }
 
-.container-3auIfb, .input-rwLH4i {
-   background-color: var(--background-primary);
+.container-3auIfb,
+.input-rwLH4i {
+    background-color: var(--background-primary);
 }
 
-.container-3baos1, .container-3baos1 .avatar-SmRMf2 {
-   background-color: var(--background-tertiary);
-   border-color: var(--background-tertiary);
+.container-3baos1,
+.container-3baos1 .avatar-SmRMf2 {
+    background-color: var(--background-tertiary);
+    border-color: var(--background-tertiary);
 }
 
 .peopleList-3c4jOR {
-   background-color: var(--background-primary);
+    background-color: var(--background-primary);
 }
 
 #app-mount .section-2gLsgF {
-   background-color: var(--background-secondary);
-   border-color: var(--background-secondary);
-   border-radius: 0px;
+    background-color: var(--background-secondary);
+    border-color: var(--background-secondary);
+    border-radius: 0px;
 }
 
 .itemCard-v9viV7:first-of-type:hover {
-   background-color: var(--background-secondary);
-   border-color: var(--background-secondary);
+    background-color: var(--background-secondary);
+    border-color: var(--background-secondary);
 }
 
 .lookFilled-1Gx00P.colorGrey-2DXtkV {
-   background-color: var(--background-secondary);
+    background-color: var(--background-secondary);
 }
 
 .bd-switch {
-   background-color: var(--background-secondary-alt);
+    background-color: var(--background-secondary-alt);
 }
 
 .bd-switch-checked {
-   background-color: var(--bd-blue);
+    background-color: var(--bd-blue);
 }
 
 .scrollableContainer-2NUZem {
-   background-color: var(--background-secondary);
+    background-color: var(--background-secondary);
 }
 
 .header-1TKi98 {
-   background-color: var(--background-primary);
+    background-color: var(--background-primary);
 }
 
 .container-1_ClKi {
-   background-color: var(--background-primary);
+    background-color: var(--background-primary);
 }
 
 .footer-2gL1pp {
-   background-color: var(--background-secondary);
+    background-color: var(--background-secondary);
 }
 
 .accountList-33MS45 {
-   background-color: var(--background-secondary);
+    background-color: var(--background-secondary);
 }
 
 .connectionHeader-2MDqhu {
-   background-color: var(--background-tertiary);
+    background-color: var(--background-tertiary);
 }
 
 .bd-addon-list .bd-addon-header {
-   background-color: var(--background-tertiary);
+    background-color: var(--background-tertiary);
 }
 
-#bd-editor-controls, .floating-window #bd-editor-controls {
-   background-color: var(--background-secondary);
+#bd-editor-controls,
+.floating-window #bd-editor-controls {
+    background-color: var(--background-secondary);
 }
 
 
@@ -110,34 +114,36 @@ html .monaco-editor .inputarea.ime-input,
 html .monaco-editor .margin {
     background-color: var(--background-secondary);
 }
+
 html .monaco-editor,
 html .monaco-editor .inputarea.ime-input {
     color: var(--text-normal);
 }
 
 .theme-dark .headerNormal-T_seeN {
-   background-color: var(--background-tertiary);
+    background-color: var(--background-tertiary);
 }
 
 .theme-dark .body-3iLsc4,
 .theme-dark .footer-1fjuF6 {
-   background-color: var(--background-secondary);
-   color: var(--text-normal);
+    background-color: var(--background-secondary);
+    color: var(--text-normal);
 }
 
-.container-1giJp5, .activityPanel-28dQGo {
-   background-color: var(--background-tertiary);
-   border-color: var(--background-tertiary);
+.container-1giJp5,
+.activityPanel-28dQGo {
+    background-color: var(--background-tertiary);
+    border-color: var(--background-tertiary);
 }
 
 .jumpToPresentBar-G1R9s6 {
-   background-color: var(--background-secondary);
+    background-color: var(--background-secondary);
 }
 
 .bd-toast {
     background-color: var(--background-floating);
     box-shadow:
-var(--elevation-medium);
+        var(--elevation-medium);
     color: var(--header-primary);
 }
 
@@ -150,7 +156,7 @@ var(--elevation-medium);
 }
 
 #app-mount .option-96V44q::after {
-    background: linear-gradient(90deg,transparent,var(--background-primary) 80%);
+    background: linear-gradient(90deg, transparent, var(--background-primary) 80%);
 }
 
 #app-mount .searchAnswer-3Dz2-q,
@@ -160,7 +166,7 @@ var(--elevation-medium);
 }
 
 .theme-dark .scroller-1-nKid {
-   background: var(--background-primary);
+    background: var(--background-primary);
 }
 
 .scrollerBase-289Jih::-webkit-scrollbar-track {
@@ -168,144 +174,155 @@ var(--elevation-medium);
 }
 
 .scrollerBase-289Jih::-webkit-scrollbar-thumb {
-   background-color: var(--background-tertiary);
+    background-color: var(--background-tertiary);
 }
 
-.autocompleteInner-zh20B_{
-   background-color: var(--background-secondary);
+.autocompleteInner-zh20B_ {
+    background-color: var(--background-secondary);
 }
 
 .theme-dark .selected-1Tbx07 {
-   background-color: var(--background-primary);
+    background-color: var(--background-primary);
 }
 
 .inspector-3LQtX9 {
-   background-color: var(--background-tertiary);
+    background-color: var(--background-tertiary);
 }
 
 .emojiItemMedium-_WAwGB:hover {
-   background-color: var(--background-tertiary);
+    background-color: var(--background-tertiary);
 }
 
 .theme-dark .footer-2gL1pp {
-   background-color: var(--background-secondary);
+    background-color: var(--background-tertiary);
+    -webkit-box-shadow: inset 0 1px 0 var(--background-modifier-active);
+    box-shadow: inset 0 1px 0 var(--background-modifier-selected);
 }
 
 .content-1YdlXf {
-   background-color: var(--background-primary);
-   border-color: none;
+    background-color: var(--background-primary);
+    border-color: none;
 }
 
-.theme-dark .error-tDF6fl, .theme-light .error-tDF6fl {
-   color:white;
+.theme-dark .error-tDF6fl,
+.theme-light .error-tDF6fl {
+    color: white;
 }
 
 .uploadModal-2ifh8j .footer-3mqk7D.hasSpoilers-1IRtQC {
-   background-color: var(--background-secondary);
-   border-color: var(--background-primary);
+    background-color: var(--background-secondary);
+    border-color: var(--background-primary);
 }
 
 .theme-dark .uploadModal-2ifh8j {
-   background-color: var(--background-primary);
-   border-color: var(--background-primary);
+    background-color: var(--background-primary);
+    border-color: var(--background-primary);
 }
 
 .inner-3nWsbo {
-   border-color: var(--background-secondary);
+    border-color: var(--background-secondary);
 }
 
 .selected-aXhQR6 .layout-2DM8Md {
-   background-color: var(--background-primary);
+    background-color: var(--background-primary);
 }
 
 .theme-dark .css-3vaxre-menu {
-   background-color: var(--background-primary);
-   border-color: var(--background-secondary)
+    background-color: var(--background-primary);
+    border-color: var(--background-secondary)
 }
 
 .modalContent-1T1Tix {
-   background-color:var(--background-primary)
+    background-color: var(--background-primary)
 }
 
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
-   background-color: var(--background-secondary-alt);
+    background-color: var(--background-secondary-alt);
 }
 
-.theme-dark .root-1gCeng  {
-   background-color: var(--background-primary)
+.theme-dark .root-1gCeng {
+    background-color: var(--background-primary)
 }
 
 .theme-dark .notches-1sAcEM {
-   background-color: var(--backgro)
+    background-color: var(--backgro)
 }
 
-.theme-dark .content-1LAB8Z, .content-mK72R6 {
-   background-color: var(--background-primary);
+.theme-dark .content-1LAB8Z,
+.content-mK72R6 {
+    background-color: var(--background-primary);
 }
 
-.bottomLeft-39-xss, .bottomRight-1T56wW, .topLeft-3buHIc, .topRight-3GKDeL {
-   background-color: var(--background-secondary-alt);
+.bottomLeft-39-xss,
+.bottomRight-1T56wW,
+.topLeft-3buHIc,
+.topRight-3GKDeL {
+    background-color: var(--background-secondary-alt);
 }
 
-.theme-dark .notDetected-33MY4s, .theme-light .notDetected-33MY4s {
-   background-color: var(--background-secondary);
+.theme-dark .notDetected-33MY4s,
+.theme-light .notDetected-33MY4s {
+    background-color: var(--background-secondary);
 }
 
 .theme-dark .card-FDVird {
-   background-color: var(--background-primary);
+    background-color: var(--background-primary);
 }
 
 .theme-dark .card-FDVird:before {
-   background-color: var(--background-secondary-alt);
+    background-color: var(--background-secondary-alt);
 }
 
 .theme-dark .addGamePopout-2RY8Ju {
-   background-color: var(--background-primary);
+    background-color: var(--background-primary);
 }
 
 .theme-dark .codeRedemptionRedirect-1wVR4b {
-   background-color: var(--background-primary);
-   border-color: var(--background-secondary);
+    background-color: var(--background-primary);
+    border-color: var(--background-secondary);
 }
 
 .pageActions-1SVAnA {
-   background-color: var(--background-secondary);
+    background-color: var(--background-secondary);
 }
 
 .theme-dark .bottomDivider-1K9Gao {
-   background-color: var(--background-primary);
-   border-color: var(--background-secondary);
+    background-color: var(--background-primary);
+    border-color: var(--background-secondary);
 }
 
 .friendsEmpty-1K9B4k {
-   background-color: var(--background-secondary);
+    background-color: var(--background-secondary);
 }
 
 .theme-dark .separator-XqIyoz {
-   background-color: var(--background-tertiary);
+    background-color: var(--background-tertiary);
 }
 
 .peopleListItem-2nzedh {
-   border-color: var(--background-secondary);
+    border-color: var(--background-secondary);
 }
 
 .cta-3gK0Pu {
-   background-color: var(--background-secondary-alt);
+    background-color: var(--background-secondary-alt);
 }
 
 .container-2VW0UT[style*="background-color: rgba(32, 34, 37"] {
-    background-color:var(--background-tertiary) !important;
+    background-color: var(--background-tertiary) !important;
 }
 
 .guildIcon-3Co6k- {
     background-color: var(--background-primary);
 }
 
-.colorable-1bkp8v.primaryDark-3mSFDl, .colorable-1bkp8v.primaryDark-3mSFDl, .colorable-1bkp8v.primaryDark-3mSFDl .centerIcon-2G6o-T[style*="background-color: #f04747"] {
+.colorable-1bkp8v.primaryDark-3mSFDl,
+.colorable-1bkp8v.primaryDark-3mSFDl,
+.colorable-1bkp8v.primaryDark-3mSFDl .centerIcon-2G6o-T[style*="background-color: #f04747"] {
     background-color: var(--background-secondary);
 }
 
-.categoryHeader-O1zU94, .bar-AokMp3 {
+.categoryHeader-O1zU94,
+.bar-AokMp3 {
     background-color: var(--background-secondary);
 }
 
@@ -333,18 +350,44 @@ var(--elevation-medium);
     background-color: var(--background-secondary);
 }
 
-.addInputWrapper-1BOZ3d, .theme-dark .sectionHeader-20RGqu {
-   background-color: var(--background-secondary);
-   border-color: var(--background-secondary);
+.addInputWrapper-1BOZ3d,
+.theme-dark .sectionHeader-20RGqu {
+    background-color: var(--background-secondary);
+    border-color: var(--background-secondary);
+}
+
+.markup-2BOw-j code.inline {
+    background-color: #101010;
+    border: 1px solid var(--background-tertiary);
+}
+
+.markup-2BOw-j code {
+    background-color: #101010;
+}
+
+.theme-dark .root-1gCeng {
+    background-color: var(--background-primary);
+    -webkit-box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 0 1px var(--background-tertiary), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.scroller-1d5FgU {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .card-3DjzTQ,
+.theme-dark .iconMask-3b8GzQ {
+    background-color: var(--background-secondary);
 }
 
 /* MEMBERCOUNT FIX */
 #app-mount #MemberCount {
-   background-color: var(--background-secondary);
+    background-color: var(--background-secondary);
 }
+
 /* MEMBERCOUNT FIX */
 
-//* LIGHT THEME WARNING */
+/* LIGHT THEME WARNING */
 .theme-light .layer-3QrUeG:first-of-type::before {
     content: 'You need to have the dark mode enabled for this theme to work properly. To enable it, go in settings > appearance.';
     position: fixed;
@@ -362,24 +405,20 @@ var(--elevation-medium);
     box-shadow: 0 2px 10px rgba(240, 71, 71, 0.3);
     border: 3px solid #f04747;
     z-index: 2;
- }
- 
- .theme-light
-    .preview-2nSL_2.cardPrimaryOutline-29Ujqw
-    + .marginTop40-i-78cZ
-    .radioGroup-1GBvlr
-    .cardPrimaryEditable-3KtE4g:first-of-type,
- .theme-light .preview-2nSL_2.cardPrimaryOutline-29Ujqw + .marginTop40-i-78cZ .radioGroup-1GBvlr .item-26Dhrx:first-of-type {
+}
+
+.theme-light .preview-2nSL_2.cardPrimaryOutline-29Ujqw+.marginTop40-i-78cZ .radioGroup-1GBvlr .cardPrimaryEditable-3KtE4g:first-of-type,
+.theme-light .preview-2nSL_2.cardPrimaryOutline-29Ujqw+.marginTop40-i-78cZ .radioGroup-1GBvlr .item-26Dhrx:first-of-type {
     animation: flash 1s ease infinite;
-     background: #f04747;
-     color: white;
- }
- 
- .theme-light .app-2rEoOp .base-3dtUhz {
+    background: #f04747;
+    color: white;
+}
+
+.theme-light .app-2rEoOp .base-3dtUhz {
     overflow: visible;
- }
- 
- .theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3) {
+}
+
+.theme-light .app-2rEoOp .container-3baos1>.noWrap-3jynv6>.button-14-BFJ:nth-child(3) {
     position: fixed;
     left: 50%;
     top: 50%;
@@ -394,9 +433,9 @@ var(--elevation-medium);
     box-shadow: 0 2px 10px rgba(240, 71, 71, 0.3);
     animation: flash 1s ease infinite;
     border: 1px solid transparent
- }
+}
 
- .theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(4) {
+.theme-light .app-2rEoOp .container-3baos1>.noWrap-3jynv6>.button-14-BFJ:nth-child(4) {
     position: fixed;
     left: 50%;
     top: 50%;
@@ -411,37 +450,16 @@ var(--elevation-medium);
     box-shadow: 0 2px 10px rgba(240, 71, 71, 0.3);
     animation: flash 1s ease infinite;
     border: 1px solid transparent
- }
- 
- .theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(3)::before {
-    position: absolute;
-    z-index: 10000;
-    content: 'Settings';
-    display: flex;
-    justify-content: center;
-    align-items:
- center;
-    width: 230px;
-    height: 14px;
-    border-radius: 5px;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    visibility: visible !important;
-    font-size: 17px;
-    font-weight: 700;
-    color: white;
-    text-align: center;
- }
+}
 
- .theme-light .app-2rEoOp .container-3baos1 > .noWrap-3jynv6 > .button-14-BFJ:nth-child(4)::before {
+.theme-light .app-2rEoOp .container-3baos1>.noWrap-3jynv6>.button-14-BFJ:nth-child(3)::before {
     position: absolute;
     z-index: 10000;
     content: 'Settings';
     display: flex;
     justify-content: center;
     align-items:
- center;
+        center;
     width: 230px;
     height: 14px;
     border-radius: 5px;
@@ -453,39 +471,64 @@ var(--elevation-medium);
     font-weight: 700;
     color: white;
     text-align: center;
- }
- 
- .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *,
- .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::after,
- .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type ::before {
+}
+
+.theme-light .app-2rEoOp .container-3baos1>.noWrap-3jynv6>.button-14-BFJ:nth-child(4)::before {
+    position: absolute;
+    z-index: 10000;
+    content: 'Settings';
+    display: flex;
+    justify-content: center;
+    align-items:
+        center;
+    width: 230px;
+    height: 14px;
+    border-radius: 5px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    visibility: visible !important;
+    font-size: 17px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *,
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *::after,
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type ::before {
     visibility: hidden !important;
- }
- 
- @keyframes flash {
-     100% {
-         border-color: white;
-     }
-     50% {
-         border-color: #f04747;
-     }
-     0% {
-         border-color: white;
-     }
- }
- 
- .platform-win.theme-light .item-PXvHYJ:nth-of-type(20), html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
-     background: #f04747 !important;
-     border: 1px solid transparent;
-     animation: flash 1s ease infinite;
- }
- 
- .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type {
+}
+
+@keyframes flash {
+    100% {
+        border-color: white;
+    }
+
+    50% {
+        border-color: #f04747;
+    }
+
+    0% {
+        border-color: white;
+    }
+}
+
+.platform-win.theme-light .item-PXvHYJ:nth-of-type(20),
+html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
+    background: #f04747 !important;
+    border: 1px solid transparent;
+    animation: flash 1s ease infinite;
+}
+
+.theme-light .app-2rEoOp .layer-3QrUeG:first-of-type {
     background-size: 30%;
     background-color: var(--background-secondary) !important;
- }
- 
- .xenoLib-notification-content {
+}
+
+.xenoLib-notification-content {
     background: var(--background-tertiary) !important;
     border: 1px solid var(--background-floating) !important;
- }
- /* LIGHT THEME WARNING */
+}
+
+/* LIGHT THEME WARNING */
