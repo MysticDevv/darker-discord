@@ -502,7 +502,7 @@ html .monaco-editor .inputarea.ime-input {
 
 @keyframes flash {
     100% {
-        border-color: white;
+        border-color: rgb(255, 255, 255);
     }
 
     50% {
@@ -510,12 +510,12 @@ html .monaco-editor .inputarea.ime-input {
     }
 
     0% {
-        border-color: white;
+        border-color: rgb(255, 255, 255);
     }
 }
 
-.platform-win.theme-light .item-PXvHYJ:nth-of-type(20),
-html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
+.platform-win.theme-light .item-PXvHYJ:nth-of-type(16),
+html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(17) {
     background: #f04747 !important;
     border: 1px solid transparent;
     animation: flash 1s ease infinite;
