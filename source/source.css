@@ -328,6 +328,8 @@ html .monaco-editor .inputarea.ime-input {
 
 .theme-dark .scroller-3BxosC {
     background-color: var(--background-floating);
+    overflow: visible !important;
+    padding:6px 8px 8px!important;
 }
 
 .panels-j1Uci_ {
@@ -378,6 +380,33 @@ html .monaco-editor .inputarea.ime-input {
 .theme-dark .card-3DjzTQ,
 .theme-dark .iconMask-3b8GzQ {
     background-color: var(--background-secondary);
+}
+
+.theme-dark .friendSelected-1sa4bG {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .feature-2w65J5 {
+    background-color: var(--background-secondary);
+}
+.theme-dark .sectionAccountCredit-1uNhnJ, .theme-dark .subscriptionDetails-1dUmjl {
+    border-color: var(--background-secondary);
+}
+
+.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
+    background-color: var(--background-secondary-alt);
+}
+
+.container-3auIfb, .input-rwLH4i {
+    background-color: var(--background-secondary);
+}
+
+.integration-3kMeY4 {
+    background-color: var(--background-primary);
 }
 
 /* MEMBERCOUNT FIX */
