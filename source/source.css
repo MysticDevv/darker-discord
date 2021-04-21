@@ -62,11 +62,11 @@
 }
 
 .bd-switch {
-    background-color: var(--background-secondary-alt);
+    background-color: var(--background-tertiary);
 }
 
 .bd-switch-checked {
-    background-color: var(--bd-blue);
+    background-color: var(--background-tertiary);
 }
 
 .scrollableContainer-2NUZem {
