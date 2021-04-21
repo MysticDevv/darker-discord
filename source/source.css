@@ -409,6 +409,23 @@ html .monaco-editor .inputarea.ime-input {
     background-color: var(--background-primary);
 }
 
+.theme-dark .message-2qRu38 {
+    background-color: var(--background-secondary);
+    box-shadow: var(--background-secondary);
+}
+
+.theme-dark .scroller-3BxosC {
+    border-radius: 5px;
+}
+
+.inspector-S2gM3e {
+    background-color: var(--background-tertiary);
+}
+.sticker-2cpdZp:hover, .sticker-3HpuRA:hover, .stickerInspected-2EM4w- {
+    background-color: #181818;
+    border-radius: 10px;
+}
+
 /* MEMBERCOUNT FIX */
 #app-mount #MemberCount {
     background-color: var(--background-secondary);
