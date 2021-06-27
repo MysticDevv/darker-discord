@@ -8,7 +8,8 @@ Need support? Join my discord! https://izmystic.dev/discord
 # How to Download
 
 ## BetterDiscord
-- Download [here](https://github.com/izMystic/darker-discord/releases/download/v2.0/DarkerDiscord.theme.css)
+- Download Theme [here](https://github.com/izMystic/darker-discord/releases/download/v2.0/DarkerDiscord.theme.css)
+- Download BetterDiscord [here](https://betterdiscord.app)
 
 ## PowerCord
 `git clone https://github.com/izMystic/darker-discord/`
