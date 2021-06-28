@@ -166,7 +166,7 @@ html .monaco-editor .inputarea.ime-input {
 }
 
 .theme-dark .scroller-1-nKid {
-    background: var(--background-primary);
+    background: var(--background-secondary);
 }
 
 .scrollerBase-289Jih::-webkit-scrollbar-track {
@@ -424,6 +424,16 @@ html .monaco-editor .inputarea.ime-input {
 .sticker-2cpdZp:hover, .sticker-3HpuRA:hover, .stickerInspected-2EM4w- {
     background-color: #181818;
     border-radius: 10px;
+}
+
+.theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw {
+    background-color: var(--background-primary);
+}
+
+.theme-dark .reactorDefault-1IUqMZ {
+    background-color: var(--background-primary);
+    -webkit-box-shadow: inset 0 1px 0 var(--background-modifier-active);
+    box-shadow: inset 0 1px 0 var(--background-modifier-selected);
 }
 
 /* MEMBERCOUNT FIX */
